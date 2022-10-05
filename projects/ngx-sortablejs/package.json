@@ -1,5 +1,6 @@
 {
-  "name": "ngx-sortablejs",
+  "name": "@dustfoundation/ngx-sortablejs",
+  "version": "13.0.0",
   "keywords": [
     "ngx-sortablejs",
     "angular-sortablejs",
@@ -12,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sortablejs/ngx-sortablejs"
+    "url": "https://github.com/DustFoundation/ngx-sortablejs"
   },
   "publishConfig": {
     "access": "public"
