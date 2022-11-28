@@ -1,6 +1,6 @@
 {
   "name": "@dustfoundation/ngx-sortablejs",
-  "version": "14.0.0",
+  "version": "14.0.1",
   "keywords": [
     "ngx-sortablejs",
     "angular-sortablejs",
@@ -19,8 +19,8 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@angular/common": "^13.0.0",
-    "@angular/core": "^13.0.0",
+    "@angular/common": ">=13.0.0",
+    "@angular/core": ">=13.0.0",
     "sortablejs": ">=1.14.0"
   },
   "main": "src/public-api.ts"
